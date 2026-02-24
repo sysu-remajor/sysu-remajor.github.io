@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "SYSU-ReMajor",
+    pageTitle: "",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "zh-CN",
-    baseUrl: "sysu-remajor.github.io",
-    ignorePatterns: ["private", "templates", "template", ".obsidian"],
+    locale: "en-US",
+    baseUrl: "quartz.jzhao.xyz",
+    ignorePatterns: ["private", "template", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
