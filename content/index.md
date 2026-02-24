@@ -27,7 +27,7 @@ description: 中山大学非官方转专业信息交流
 
 - [[转专业经验分享汇总]] 小红书、公众号等处的优质文章
 - [[中山大学转专业相关群聊]]
-- [中大转专业网络讨论洞察报告](https://sysu-remajor.github.io/webinfo-fetch) 每周更新，获取转专业热度
+- [中大转专业网络讨论洞察报告]([https://sysu-remajor.github.io/webinfo-fetch/](https://sysu-remajor.github.io/webinfo-fetch/trans_major_focus_report.html)) 每周更新，获取转专业热度
 - [[二次遴选]] 分为新生 only 和真二次遴选（系统工程、马克思主义学院）
 
 ### 官方信源
