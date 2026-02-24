@@ -2,9 +2,21 @@
 title: SYSU-ReMajor
 description: 中山大学非官方转专业信息交流
 ---
+## 关于 SYSU-ReMajor
 
-中山大学非官方转专业信息交流。
+说是中山大学非官方转专业信息交流项目，其实主要是面向有转计算机类专业的群体发起的项目。
 
-- 地区: China
-- 网站: [http://sysu-remajor.github.io](http://sysu-remajor.github.io)
-- 邮箱: [sysu-remajor@proton.me](mailto:sysu-remajor@proton.me)
+## 相关文档
+
+[[转专业经验分享汇总]]
+
+## 中山大学转专业相关群聊
+
+### 计算机类群聊
+
+- 中山大学转计算机专业群：476972628（最活跃）
+- 中山大学转软工专业群：699077354（跳转微信）
+- 中山大学转网安专业群：目前只有微信群，可以加微信 candlest 或其他群内人员拉入（后续考虑制作脚本）
+
+### 泛转专业群聊
+
