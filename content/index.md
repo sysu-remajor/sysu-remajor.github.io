@@ -18,6 +18,11 @@ description: 中山大学非官方转专业信息交流
 
 为求客观，可以阅读[[经验与社区/转专业的另一面]]。
 
+## 项目链接
+
+1. GitHub 主页：[sysu-remajor](https://github.com/sysu-remajor)
+2. 项目地址：[sysu-remajor/sysu-remajor.github.io](https://github.com/sysu-remajor/sysu-remajor.github.io)
+
 ## 3 分钟上手
 
 > [!important]
