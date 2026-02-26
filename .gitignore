@@ -1,0 +1,17 @@
+.DS_Store
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+
+# Track shared Obsidian vault settings for content/
+!content/.obsidian/
+content/.obsidian/*
+!content/.obsidian/app.json
+!content/.obsidian/templates.json
