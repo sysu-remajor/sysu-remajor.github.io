@@ -15,3 +15,7 @@ replit.nix
 content/.obsidian/*
 !content/.obsidian/app.json
 !content/.obsidian/templates.json
+
+# playwright-cli
+*.log
+content/.playwright-cli/

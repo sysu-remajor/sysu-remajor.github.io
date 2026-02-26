@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "assert"
+  "attachmentFolderPath": "assert",
+  "alwaysUpdateLinks": true
 }
