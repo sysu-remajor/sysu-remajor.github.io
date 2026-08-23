@@ -4,7 +4,7 @@
 
 ## 项目信息
 
-- 网站: [http://sysu-remajor.github.io](http://sysu-remajor.github.io)
+- 网站: [https://sysu-remajor.github.io](https://sysu-remajor.github.io)
 - 邮箱: [sysu-remajor@proton.me](mailto:sysu-remajor@proton.me)
 
 ## 仓库结构
